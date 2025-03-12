@@ -1,5 +1,5 @@
 {
-    "name": "zaki98EvilPlugin",
+    "name": "zaki98Evil",
     "description": "is there an xss in short description \"><img src='x' onerror='alert(123)'",
     "version": "5.0.0",
     "keywords": [
@@ -20,7 +20,7 @@
     "authors": [
         {
             "name": "zaki98",
-            "email": "",
+            "email": "zaki98@wearehackerone.com",
             "homepage": "https://z98.pro"
         }
     ],
