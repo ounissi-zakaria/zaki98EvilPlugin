@@ -1,0 +1,36 @@
+{
+    "name": "zaki98EvilPlugin",
+    "description": "is there an xss in short description \"><img src='x' onerror='alert(123)'",
+    "version": "5.0.0",
+    "keywords": [
+        "live",
+        "tab",
+        "xss"
+    ],
+    "homepage": "https://z98.pro",
+    "license": "GPL-3.0+",
+    "require": {
+        "piwik": ">=5.0.0-b1,<6.0.0-b1"
+    },
+    "support": {
+        "issues": "https://z98.pro/tsteur/matomo-livetab-plugin/issues",
+        "wiki": "https://z98.pro/tsteur/matomo-livetab-plugin/wiki",
+        "source": "https://z98.pro/tsteur/matomo-livetab-plugin"
+    },
+    "authors": [
+        {
+            "name": "zaki98",
+            "email": "",
+            "homepage": "https://z98.pro"
+        }
+    ],
+    "donate": {
+        "paypal": "supporters@z98.pro",
+        "flattr": "https://z98.pro/thing/131552/Piwik-Web-Analytics-Open-Source",
+        "bitcoin": "bitcoinbitcoinbitcoinbitcoinbitcoin"
+    },
+    "preview": {
+        "demo_url": "https://demo.z98.pro/",
+        "video_url": "https://www.z98.pro/embed/Aaa_111HHH"
+    }
+}
