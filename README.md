@@ -6,159 +6,159 @@
 
 ## Description
 
-1. <a></a>
-1. <abbr></abbr>
-1. <acronym></acronym>
-1. <address></address>
-1. <animate></animate>
-1. <animatemotion></animatemotion>
-1. <animatetransform></animatetransform>
-1. <applet></applet>
-1. <area></area>
-1. <article></article>
-1. <aside></aside>
-1. <audio></audio>
-1. <b></b>
-1. <base></base>
-1. <basefont></basefont>
-1. <bdi></bdi>
-1. <bdo></bdo>
-1. <bgsound></bgsound>
-1. <big></big>
-1. <blink></blink>
-1. <blockquote></blockquote>
-1. <body></body>
-1. <br></br>
-1. <button></button>
-1. <canvas></canvas>
-1. <caption></caption>
-1. <center></center>
-1. <cite></cite>
-1. <code></code>
-1. <col></col>
-1. <colgroup></colgroup>
-1. <command></command>
-1. <content></content>
-1. <custom></custom>
-1. <data></data>
-1. <datalist></datalist>
-1. <dd></dd>
-1. <del></del>
-1. <details></details>
-1. <dfn></dfn>
-1. <dialog></dialog>
-1. <dir></dir>
-1. <discard></discard>
-1. <div></div>
-1. <dl></dl>
-1. <dt></dt>
-1. <element></element>
-1. <em></em>
-1. <embed></embed>
-1. <fieldset></fieldset>
-1. <figcaption></figcaption>
-1. <figure></figure>
-1. <font></font>
-1. <footer></footer>
-1. <form></form>
-1. <frame></frame>
-1. <frameset></frameset>
-1. <h1></h1>
-1. <head></head>
-1. <header></header>
-1. <hgroup></hgroup>
-1. <hr></hr>
-1. <html></html>
-1. <i></i>
-1. <iframe></iframe>
-1. <image></image>
-1. <image2></image2>
-1. <image3></image3>
-1. <img></img>
-1. <img2></img2>
-1. <input></input>
-1. <input2></input2>
-1. <input3></input3>
-1. <input4></input4>
-1. <ins></ins>
-1. <isindex></isindex>
-1. <kbd></kbd>
-1. <keygen></keygen>
-1. <label></label>
-1. <legend></legend>
-1. <li></li>
-1. <link></link>
-1. <listing></listing>
-1. <main></main>
-1. <map></map>
-1. <mark></mark>
-1. <marquee></marquee>
-1. <menu></menu>
-1. <menuitem></menuitem>
-1. <meta></meta>
-1. <meter></meter>
-1. <multicol></multicol>
-1. <nav></nav>
-1. <nextid></nextid>
-1. <nobr></nobr>
-1. <noembed></noembed>
-1. <noframes></noframes>
-1. <noscript></noscript>
-1. <object></object>
-1. <ol></ol>
-1. <optgroup></optgroup>
-1. <option></option>
-1. <output></output>
-1. <p></p>
-1. <param></param>
-1. <picture></picture>
-1. <plaintext></plaintext>
-1. <pre></pre>
-1. <progress></progress>
-1. <q></q>
-1. <rb></rb>
-1. <rp></rp>
-1. <rt></rt>
-1. <rtc></rtc>
-1. <ruby></ruby>
-1. <s></s>
-1. <samp></samp>
-1. <script></script>
-1. <section></section>
-1. <select></select>
-1. <set></set>
-1. <shadow></shadow>
-1. <slot></slot>
-1. <small></small>
-1. <source></source>
-1. <spacer></spacer>
-1. <span></span>
-1. <strike></strike>
-1. <strong></strong>
-1. <style></style>
-1. <sub></sub>
-1. <summary></summary>
-1. <sup></sup>
-1. <svg></svg>
-1. <table></table>
-1. <tbody></tbody>
-1. <td></td>
-1. <template></template>
-1. <textarea></textarea>
-1. <tfoot></tfoot>
-1. <th></th>
-1. <thead></thead>
-1. <time></time>
-1. <title></title>
-1. <tr></tr>
-1. <track></track>
-1. <tt></tt>
-1. <u></u>
-1. <ul></ul>
-1. <var></var>
-1. <video></video>
-1. <wbr></wbr>
-1. <xmp></xmp>
+  a: <a>a</a>
+  abbr: <abbr>abbr</abbr>
+  acronym: <acronym>acronym</acronym>
+  address: <address>address</address>
+  animate: <animate>animate</animate>
+  animatemotion: <animatemotion>animatemotion</animatemotion>
+  animatetransform: <animatetransform>animatetransform</animatetransform>
+  applet: <applet>applet</applet>
+  area: <area>area</area>
+  article: <article>article</article>
+  aside: <aside>aside</aside>
+  audio: <audio>audio</audio>
+  b: <b>b</b>
+  base: <base>base</base>
+  basefont: <basefont>basefont</basefont>
+  bdi: <bdi>bdi</bdi>
+  bdo: <bdo>bdo</bdo>
+  bgsound: <bgsound>bgsound</bgsound>
+  big: <big>big</big>
+  blink: <blink>blink</blink>
+  blockquote: <blockquote>blockquote</blockquote>
+  body: <body>body</body>
+  br: <br>br</br>
+  button: <button>button</button>
+  canvas: <canvas>canvas</canvas>
+  caption: <caption>caption</caption>
+  center: <center>center</center>
+  cite: <cite>cite</cite>
+  code: <code>code</code>
+  col: <col>col</col>
+  colgroup: <colgroup>colgroup</colgroup>
+  command: <command>command</command>
+  content: <content>content</content>
+  custom tags: <custom>custom tags</custom>
+  data: <data>data</data>
+  datalist: <datalist>datalist</datalist>
+  dd: <dd>dd</dd>
+  del: <del>del</del>
+  details: <details>details</details>
+  dfn: <dfn>dfn</dfn>
+  dialog: <dialog>dialog</dialog>
+  dir: <dir>dir</dir>
+  discard: <discard>discard</discard>
+  div: <div>div</div>
+  dl: <dl>dl</dl>
+  dt: <dt>dt</dt>
+  element: <element>element</element>
+  em: <em>em</em>
+  embed: <embed>embed</embed>
+  fieldset: <fieldset>fieldset</fieldset>
+  figcaption: <figcaption>figcaption</figcaption>
+  figure: <figure>figure</figure>
+  font: <font>font</font>
+  footer: <footer>footer</footer>
+  form: <form>form</form>
+  frame: <frame>frame</frame>
+  frameset: <frameset>frameset</frameset>
+  h1: <h1>h1</h1>
+  head: <head>head</head>
+  header: <header>header</header>
+  hgroup: <hgroup>hgroup</hgroup>
+  hr: <hr>hr</hr>
+  html: <html>html</html>
+  i: <i>i</i>
+  iframe: <iframe>iframe</iframe>
+  image: <image>image</image>
+  image2: <image2>image2</image2>
+  image3: <image3>image3</image3>
+  img: <img>img</img>
+  img2: <img2>img2</img2>
+  input: <input>input</input>
+  input2: <input2>input2</input2>
+  input3: <input3>input3</input3>
+  input4: <input4>input4</input4>
+  ins: <ins>ins</ins>
+  isindex: <isindex>isindex</isindex>
+  kbd: <kbd>kbd</kbd>
+  keygen: <keygen>keygen</keygen>
+  label: <label>label</label>
+  legend: <legend>legend</legend>
+  li: <li>li</li>
+  link: <link>link</link>
+  listing: <listing>listing</listing>
+  main: <main>main</main>
+  map: <map>map</map>
+  mark: <mark>mark</mark>
+  marquee: <marquee>marquee</marquee>
+  menu: <menu>menu</menu>
+  menuitem: <menuitem>menuitem</menuitem>
+  meta: <meta>meta</meta>
+  meter: <meter>meter</meter>
+  multicol: <multicol>multicol</multicol>
+  nav: <nav>nav</nav>
+  nextid: <nextid>nextid</nextid>
+  nobr: <nobr>nobr</nobr>
+  noembed: <noembed>noembed</noembed>
+  noframes: <noframes>noframes</noframes>
+  noscript: <noscript>noscript</noscript>
+  object: <object>object</object>
+  ol: <ol>ol</ol>
+  optgroup: <optgroup>optgroup</optgroup>
+  option: <option>option</option>
+  output: <output>output</output>
+  p: <p>p</p>
+  param: <param>param</param>
+  picture: <picture>picture</picture>
+  plaintext: <plaintext>plaintext</plaintext>
+  pre: <pre>pre</pre>
+  progress: <progress>progress</progress>
+  q: <q>q</q>
+  rb: <rb>rb</rb>
+  rp: <rp>rp</rp>
+  rt: <rt>rt</rt>
+  rtc: <rtc>rtc</rtc>
+  ruby: <ruby>ruby</ruby>
+  s: <s>s</s>
+  samp: <samp>samp</samp>
+  script: <script>script</script>
+  section: <section>section</section>
+  select: <select>select</select>
+  set: <set>set</set>
+  shadow: <shadow>shadow</shadow>
+  slot: <slot>slot</slot>
+  small: <small>small</small>
+  source: <source>source</source>
+  spacer: <spacer>spacer</spacer>
+  span: <span>span</span>
+  strike: <strike>strike</strike>
+  strong: <strong>strong</strong>
+  style: <style>style</style>
+  sub: <sub>sub</sub>
+  summary: <summary>summary</summary>
+  sup: <sup>sup</sup>
+  svg: <svg>svg</svg>
+  table: <table>table</table>
+  tbody: <tbody>tbody</tbody>
+  td: <td>td</td>
+  template: <template>template</template>
+  textarea: <textarea>textarea</textarea>
+  tfoot: <tfoot>tfoot</tfoot>
+  th: <th>th</th>
+  thead: <thead>thead</thead>
+  time: <time>time</time>
+  title: <title>title</title>
+  tr: <tr>tr</tr>
+  track: <track>track</track>
+  tt: <tt>tt</tt>
+  u: <u>u</u>
+  ul: <ul>ul</ul>
+  var: <var>var</var>
+  video: <video>video</video>
+  wbr: <wbr>wbr</wbr>
+  xmp: <xmp>xmp</xmp>
 
 ## Installation
 
