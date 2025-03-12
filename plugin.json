@@ -7,29 +7,29 @@
         "tab",
         "xss"
     ],
-    "homepage": "javascript://z98.pro\nhttps://z98.pro/",
+    "homepage": "https://z98.pro",
     "license": "GPL-3.0+",
     "require": {
         "piwik": ">=5.0.0-b1,<6.0.0-b1"
     },
     "support": {
-        "issues": "javascript://z98.pro/tsteur/matomo-livetab-plugin/issues\nhttps://z98.pro/",
-        "wiki": "javascript://z98.pro/tsteur/matomo-livetab-plugin/wiki\nhttps://z98.pro/",
-        "source": "javascript://z98.pro/tsteur/matomo-livetab-plugi\nhttps://z98.pro/n"
+        "issues": "https://z98.pro/tsteur/matomo-livetab-plugin/issues",
+        "wiki": "https://z98.pro/tsteur/matomo-livetab-plugin/wiki",
+        "source": "https://z98.pro/tsteur/matomo-livetab-plugin"
     },
     "authors": [
         {
             "name": "zaki98",
             "email": "zaki98@wearehackerone.com",
-            "homepage": "javascript://z98.pr\nhttps://z98.pro/o"
+            "homepage": "https://z98.pro"
         }
     ],
     "donate": {
         "paypal": "supporters@z98.pro",
-        "flattr": "javascript://z98.pro/thing/131552/Piwik-Web-Analytics-Open-Source\nhttps://z98.pro/",
+        "flattr": "https://z98.pro/thing/131552/Piwik-Web-Analytics-Open-Source",
         "bitcoin": "bitcoinbitcoinbitcoinbitcoinbitcoin"
     },
     "preview": {
-        "demo_url": "javascript://demo.z98.pro\nhttps://z98.pro//"
+        "demo_url": "https://demo.z98.pro/"
     }
 }
