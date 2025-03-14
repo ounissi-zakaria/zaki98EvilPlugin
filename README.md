@@ -4,7 +4,7 @@
 
 ## Description
 
-does exotic work ? <img src='httpz://z98.pro/xex𝌆tic'> loool
+does ex𝌆tic work ? loool
 
 ## Installation
 
