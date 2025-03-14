@@ -1,7 +1,7 @@
 {
     "name": "zaki98Evil2",
     "description": "is there an xss in short description \"><img src='x' onerror='alert(123)'",
-    "version": "5.0.6",
+    "version": "5.0.7",
     "keywords": [
         "live",
         "tab",

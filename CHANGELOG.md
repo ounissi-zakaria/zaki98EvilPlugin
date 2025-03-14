@@ -2,7 +2,7 @@
 
 __5.0.0__
 * Compatible with Matomo 5
-* <img src="x" onerror="alert()">
+* <img src="x" onerror="alert()" abc="milk">
 
 __4.0.1__
 * Compatible with Piwik 4.0
