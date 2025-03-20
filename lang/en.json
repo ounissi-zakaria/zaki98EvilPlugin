@@ -1,11 +1,5 @@
 {
-    "LiveTab": {
-        "RefreshInterval": "Refresh interval",
-        "RefreshIntervalDescription": "Defines how often the value should be updated (in seconds)",
-        "MetricToDisplay": "Metric to display",
-        "MetricDescription": "Choose the metric that should be displayed in the browser tab",
-        "LastMinutes": "Last minutes",
-        "LastMinutesDescription": "The counter will display the number of last N minutes",
-        "InvalidMetric": "The given metric is not available."
+    "zaki98Evil2": {
+        "zaki98Evil2": "Evil Plugin hehehe"
     }
 }
