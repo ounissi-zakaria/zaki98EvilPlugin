@@ -1,5 +1,5 @@
 {
-    "name": "zaki98Evil2",
+    "name": "zaki98Evil3",
     "description": "is there an xss in short description \"><img src='x' onerror='alert(123)'",
     "version": "5.0.8",
     "keywords": [
